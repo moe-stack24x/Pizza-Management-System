@@ -40,7 +40,7 @@ Through this project, I practiced:
 
 ## 📸 Screenshots
 
-(Add screenshots of the application here)
+(Screenshots/MainForm.png)
 
 ---
 
