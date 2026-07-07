@@ -1,52 +1,65 @@
 # 🍕 Pizza Management System
 
-A desktop pizza management application built using **C# Windows Forms**.
-
-This project was developed to practice building graphical desktop applications and applying programming concepts in a real-world scenario.
+A desktop application built using **C# Windows Forms** that allows users to customize and place pizza orders through a simple and interactive graphical interface.
 
 ---
 
-## 🚀 Features
+## ✨ Features
 
-- 🍕 Pizza menu selection
-- 🧾 Order management
-- 💰 Automatic price calculation
-- 🖥️ User-friendly Windows Forms interface
-- ⚡ Event-driven programming
-- ✅ Simple and clear user interaction
+- 🍕 Choose pizza size (Small, Medium, Large)
+- 🧀 Select crust type (Thin, Thick)
+- 🥓 Add multiple toppings
+- 🚚 Delivery or Takeaway options
+- 💰 Automatic total price calculation
+- 🔄 Reset order
+- ✅ Order confirmation
 
 ---
 
 ## 🛠️ Technologies Used
 
 - C#
-- Windows Forms
+- Windows Forms (.NET Framework)
 - Visual Studio
 
 ---
 
-## 🎯 Concepts Practiced
+## 🎯 Learning Objectives
 
-Through this project, I practiced:
+This project helped me practice:
 
+- Windows Forms development
+- Event-driven programming
 - Object-Oriented Programming (OOP)
-- GUI development
-- Event handling
-- Variables and data types
-- Conditional statements
-- Application logic design
+- Working with CheckBox, RadioButton, GroupBox, and Buttons
+- Designing graphical user interfaces
+- Writing clean and organized C# code
 
 ---
 
 ## 📸 Screenshots
 
-(Screenshots/MainForm.png)
+### 🏠 Main Form
+
+![Main Form](Screenshots/MainForm.png)
+
+### 📝 Order Form
+
+![Order Form](Screenshots/OrderForm.png)
 
 ---
 
-## 📚 Purpose
+## 🚀 How to Run
 
-This project is part of my self-learning journey in programming and software development, focusing on improving my C# skills and building practical applications.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/moe-stack24x/Pizza-Management-System.git
+```
+
+2. Open the solution in **Visual Studio**.
+
+3. Build and run the project.
 
 ---
 
@@ -54,5 +67,4 @@ This project is part of my self-learning journey in programming and software dev
 
 **Mohamed Idris**
 
-GitHub:
-https://github.com/moe-stack24x
+- GitHub: https://github.com/moe-stack24x
